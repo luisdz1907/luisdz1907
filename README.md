@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, mi nombre es Luis Diaz</h1>
-<h3 align="center">Soy programador apasionado por el desarrollo web</h3>
+<h1 align="center">Hola 👋, mi nombre es Luis Eduardo Diaz</h1>
+<h3 align="center">Soy programador apasionado por el desarrollo web.</h3>
 
 <p align="left">
 </p>
