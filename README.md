@@ -1,6 +1,10 @@
 <h1 align="center">¡Hola! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">  Me llamo Luis Eduardo Diaz</h1>
 <h3 align="center">Soy colombiano y me  apasiona programar, actualmente me encuentro enfocado en el desarrollo web.</h3>
 
+<p align="center"> 
+ Desde el año 2020 me encuentro ejerciendo la carrera de Ing de Sistemas en la Corporación Universitaria Remington actualmmente me encuentro en 6 semestre, desde que   conoci la programacion
+ a sido mi pasa tiempo favorito me gusta desarrollar paginas con el fin de especializarme en esta rama de la informatica.
+</p>
 <br>
  <img style="width:350px;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Codificador GIF" width="500">
 
@@ -20,11 +24,8 @@
 
 <h2 align="left">👨🏻‍💻 Sobre Mi:</h2>
 
-- :computer: Actualmente me encuentro buscando mi primera oferta laboral
+- :computer: Actualmente me encuentro estudiando Ing Sistemas 
 - :rocket: Siempre listo para colaborar
-- :trophy: Soy estudiante ing sistemas y me gusta aprovechar los recursos online
 - :zap: Dato curioso: me encanta asistir a reuniones para aprender y conferencias para establecer contactos
-
-<p ><img alinear="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisdz1907&show_icons=true&locale=en&layout=compact" alt="luisdz1907" /></p>
 
 
