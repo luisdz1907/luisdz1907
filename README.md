@@ -2,11 +2,12 @@
 <h3 align="center">Soy colombiano y me  apasiona programar, actualmente me encuentro enfocado en el desarrollo web.</h3>
 
 <p align="center"> 
- Desde el año 2020 me encuentro ejerciendo la carrera de Ing de Sistemas en la Corporación Universitaria Remington actualmmente me encuentro en 6 semestre, desde que   conoci la programacion
- a sido mi pasa tiempo favorito me gusta desarrollar paginas con el fin de especializarme en esta rama de la informatica.
+ Desde el año 2020 me encuentro cursando la carrera de Ing de Sistemas en la Corporación Universitaria Remington actualmente me encuentro en 6 semestre, desde que   conoci la programacion a sido mi pasatiempo favorito me gusta desarrollar paginas web y poner mi creatividad en ellas.
 </p>
 <br>
- <img style="width:350px;" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Codificador GIF" width="500">
+<p align="center">Aquí encontrarás la mayoría de mis proyectos que hago en mi tiempo libre!</p>
+
+
 
 <br>
 
@@ -26,7 +27,7 @@
 
  - :computer: Actualmente me encuentro estudiando Ing Sistemas 
 - :rocket: Siempre listo para colaborar
-- :zap: Dato curioso: me encanta asistir a reuniones para aprender y conferencias para establecer contactos
+- :zap: Dato curioso: me encanta asistir a reuniones para aprender y eventos para establecer contactos
 
 
 
