@@ -20,16 +20,6 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luisdz1907" alt="luisdz1907" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/luisdzpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luisdzpro" height="30" width="40" /></a>
-</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luisdz1907&show_icons=true&locale=en&layout=compact" alt="luisdz1907" /></p>
-
-
 
 <h2 align="center">👨🏻‍💻 Sobre Mi:</h2>
 
